@@ -1,2 +1,2 @@
-# CSC161
-Homework
+# Introduction to Programming
+Homework + Class notes
